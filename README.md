@@ -1,5 +1,5 @@
 # CloudDefender
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)
+![Alt text](./image.png)
 ### Project Explanation and Objective
 
 #### **Project Overview**  
