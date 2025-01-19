@@ -1,5 +1,5 @@
 # CloudDefender
-![Alt text](./image.png)
+![Alt text](./Architecture.png)
 ### Project Explanation and Objective
 
 #### **Project Overview**  
